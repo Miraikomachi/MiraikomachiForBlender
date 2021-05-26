@@ -5,7 +5,7 @@ Miraikomachi for Blender
 
 ![Screenshot](https://github.com/Miraikomachi/MiraikomachiForBlender/blob/main/ScreenShots/ss001.png "Screenshot")
 
-Copyright (c) Bandai Namco Research Inc.
+Copyright (C) Bandai Namco Research Inc.
 
 Miraikomachi.blendはBlenderで開くことができます.
 
