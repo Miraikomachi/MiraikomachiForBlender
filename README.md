@@ -18,7 +18,26 @@ Blenderを使った映像制作やゲームエンジン向けのデータ出力�
 
 ## Blender version
 
-Blender 2.83.13 or later
+Blender 2.93.1 or later
+
+## ファイルについて
+
+このデータには2つのBlenderシーンファイルが付属します.
+
+- Miraikomachi.blend...アドオンなしの標準Blenderシーン
+- MiraikomachiProRender.blend...AMD Radeon ProRenderのトゥーンシェーディング用の設定が済んだシーンです.
+
+MiraikomachiProRender.blendではAMD Radeon ProRenderのBlenderアドオンを導入することで下記のようなトゥーンシェーディングでレンダリングが
+できます.
+
+![Screenshot](https://github.com/Miraikomachi/MiraikomachiForBlender/blob/main/ScreenShots/ss002.png "Screenshot")
+
+### 必要なアドオン
+
+MiraikomachiProRender.blendでは,Radeon ProRender for Blender 3.3を使用しています.下記より入手し,Blenderのアドオンとして事前にインストールしておく必要があります.
+
+https://www.amd.com/ja/technologies/radeon-prorender-blender
+
 
 ## LICENSE
 
