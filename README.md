@@ -27,8 +27,9 @@ Blender 2.93.1 or later
 - Miraikomachi.blend...アドオンなしの標準Blenderシーン
 - MiraikomachiProRender.blend...AMD Radeon ProRenderのトゥーンシェーディング用の設定が済んだシーンです.
 
-MiraikomachiProRender.blendではAMD Radeon ProRenderのBlenderアドオンを導入することで下記のようなトゥーンシェーディングでレンダリングが
-できます.
+Miraikomachi.blendはBlender標準機能で使用できるシーンです.
+
+MiraikomachiProRender.blendではAMD Radeon ProRenderのBlenderアドオンを導入することで下記のようなトゥーンシェーディングでレンダリングができます.
 
 ![Screenshot](https://github.com/Miraikomachi/MiraikomachiForBlender/blob/main/ScreenShots/ss002.png "Screenshot")
 
