@@ -36,7 +36,7 @@ MiraikomachiProRender.blendではAMD Radeon ProRenderのBlenderアドオンを�
 
 ### 必要なアドオン
 
-MiraikomachiProRender.MiraikomachiProRenderWithOutline.blendでは,Radeon ProRender for Blender 3.6.0を使用しています.下記より入手し,Blenderのアドオンとして事前にインストールしておく必要があります.
+MiraikomachiProRender.blendおよびMiraikomachiProRenderWithOutline.blendでは,Radeon ProRender for Blender 3.6.0を使用しています.下記より入手し,Blenderのアドオンとして事前にインストールしておく必要があります.
 
 https://www.amd.com/ja/technologies/radeon-prorender-blender
 
