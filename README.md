@@ -7,8 +7,6 @@ Miraikomachi for Blender
 
 Copyright (C) Bandai Namco Research Inc.
 
-Miraikomachi.blendはBlenderで開くことができます.
-
 このデータには、ミライ小町の3Dモデルデータ、「ミライ」MVで使用されたダンスアニメーションデータ、テクスチャが含まれています。
 
 Blenderを使った映像制作やゲームエンジン向けのデータ出力などにご利用いただけます。
@@ -38,7 +36,7 @@ MiraikomachiProRender.blendではAMD Radeon ProRenderのBlenderアドオンを�
 
 ### 必要なアドオン
 
-MiraikomachiProRender.blendでは,Radeon ProRender for Blender 3.6.0を使用しています.下記より入手し,Blenderのアドオンとして事前にインストールしておく必要があります.
+MiraikomachiProRender.MiraikomachiProRenderWithOutline.blendでは,Radeon ProRender for Blender 3.6.0を使用しています.下記より入手し,Blenderのアドオンとして事前にインストールしておく必要があります.
 
 https://www.amd.com/ja/technologies/radeon-prorender-blender
 
